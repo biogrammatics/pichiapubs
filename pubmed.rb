@@ -65,7 +65,10 @@ unless (oldids == newids)
     bib.match(link)
     linktext = "<p><a href=" + $1.to_s + ">pubmed link</a></p>"
 
-    File.open(html_file, 'a') {|f| f.write("<div itemscope itemtype=\"http://schema.org/ScholarlyArticle\"><hr><h4><span itemprop=\"description\">" + titletext + "</span></h4>" + "<p>" + trends + "</p><span itemprop=\"url\">" + linktext + "</span>"+ "<details><summary>Abstract</summary>" + abstracttext + "</details></div>\n") }
+    pub_date = med.pubmed['DP']
+    x = 1
+
+    File.open(html_file, 'a') {|f| f.write("<div itemscope itemtype=\"http://schema.org/ScholarlyArticle\"><hr><h4><span itemprop=\"headline\">" + titletext + "</span></h4> <p>" + trends + "</p> <span itemprop=\"datePublished\"><p>Publication date: " + pub_date + "</p></span> <span itemprop=\"url\">" + linktext + "</span> <details><summary>Abstract</summary>" + abstracttext + "</details></div>\n") }
 
   end
 
