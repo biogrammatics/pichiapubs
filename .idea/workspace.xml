@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2d1a0426-d15e-4c18-84d7-4b04cad91ad3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/cumulative_ids.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cumulative_ids.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/idnumbers.txt" beforeDir="false" afterPath="$PROJECT_DIR$/idnumbers.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pubmedtest.html" beforeDir="false" afterPath="$PROJECT_DIR$/pubmedtest.html" afterDir="false" />
-    </list>
+    <list default="true" id="2d1a0426-d15e-4c18-84d7-4b04cad91ad3" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,8 +22,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pubmedtest.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="21" column="61" selection-end-line="154" />
+            <state relative-caret-position="240">
+              <caret line="16" column="45" selection-end-line="154" />
             </state>
           </provider>
         </entry>
@@ -129,22 +125,22 @@
       <workItem from="1556577031144" duration="335000" />
       <workItem from="1557169690377" duration="770000" />
       <workItem from="1557430612351" duration="372000" />
-      <workItem from="1557532216393" duration="509000" />
+      <workItem from="1557532216393" duration="695000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5570000" />
+    <option name="totallyTimeSpent" value="5756000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="320" y="190" width="1920" height="1003" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27902022" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27902022" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32930845" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32930845" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -179,8 +175,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pubmedtest.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="21" column="61" selection-end-line="154" />
+        <state relative-caret-position="240">
+          <caret line="16" column="45" selection-end-line="154" />
         </state>
       </provider>
     </entry>
