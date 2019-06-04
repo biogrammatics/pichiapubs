@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2d1a0426-d15e-4c18-84d7-4b04cad91ad3" name="Default Changelist" comment="" />
+    <list default="true" id="2d1a0426-d15e-4c18-84d7-4b04cad91ad3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cumulative_ids.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cumulative_ids.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idnumbers.txt" beforeDir="false" afterPath="$PROJECT_DIR$/idnumbers.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubmedtest.html" beforeDir="false" afterPath="$PROJECT_DIR$/pubmedtest.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,8 +27,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pubmedtest.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="70" selection-end-line="153" />
+            <state relative-caret-position="221">
+              <caret line="15" column="15" lean-forward="true" selection-end-line="140" />
             </state>
           </provider>
         </entry>
@@ -44,6 +49,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -55,7 +61,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -129,22 +134,23 @@
       <workItem from="1558115320432" duration="461000" />
       <workItem from="1558389302266" duration="327000" />
       <workItem from="1558974993965" duration="199000" />
+      <workItem from="1559683260956" duration="158000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6743000" />
+    <option name="totallyTimeSpent" value="6901000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="320" y="190" width="1920" height="1003" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28700745" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29020235" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32930845" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32930845" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -164,7 +170,7 @@
     <option name="version" value="1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/pichiapubs@pubmed.rcov" NAME="pubmed Coverage Results" MODIFIED="1559069722442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="pichiapubs" />
+    <SUITE FILE_PATH="coverage/pichiapubs@pubmed.rcov" NAME="pubmed Coverage Results" MODIFIED="1559683265876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="pichiapubs" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.tool-versions">
@@ -179,8 +185,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pubmedtest.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="70" selection-end-line="153" />
+        <state relative-caret-position="221">
+          <caret line="15" column="15" lean-forward="true" selection-end-line="140" />
         </state>
       </provider>
     </entry>
