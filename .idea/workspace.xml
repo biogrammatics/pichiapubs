@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d1a0426-d15e-4c18-84d7-4b04cad91ad3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cumulative_ids.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cumulative_ids.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/idnumbers.txt" beforeDir="false" afterPath="$PROJECT_DIR$/idnumbers.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pubmedtest.html" beforeDir="false" afterPath="$PROJECT_DIR$/pubmedtest.html" afterDir="false" />
@@ -26,8 +27,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pubmedtest.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="11" column="58" lean-forward="true" selection-end-line="141" />
+            <state relative-caret-position="409">
+              <caret line="28" column="86" selection-end-line="137" />
             </state>
           </provider>
         </entry>
@@ -48,7 +49,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -60,6 +60,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -135,22 +136,24 @@
       <workItem from="1558974993965" duration="199000" />
       <workItem from="1559683260956" duration="158000" />
       <workItem from="1559930161373" duration="211000" />
+      <workItem from="1560468245076" duration="6000" />
+      <workItem from="1562002465870" duration="603000" />
+      <workItem from="1562351358515" duration="795000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7112000" />
+    <option name="totallyTimeSpent" value="8516000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="320" y="190" width="1920" height="1003" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29339722" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30298188" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32930845" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32930845" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -170,7 +173,7 @@
     <option name="version" value="1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/pichiapubs@pubmed.rcov" NAME="pubmed Coverage Results" MODIFIED="1560192605146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="pichiapubs" />
+    <SUITE FILE_PATH="coverage/pichiapubs@pubmed.rcov" NAME="pubmed Coverage Results" MODIFIED="1563841356377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="pichiapubs" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.tool-versions">
@@ -185,8 +188,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pubmedtest.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="11" column="58" lean-forward="true" selection-end-line="141" />
+        <state relative-caret-position="409">
+          <caret line="28" column="86" selection-end-line="137" />
         </state>
       </provider>
     </entry>
