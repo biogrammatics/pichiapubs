@@ -27,8 +27,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pubmedtest.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="349">
-              <caret line="24" column="47" selection-end-line="131" />
+            <state relative-caret-position="437">
+              <caret line="31" column="47" selection-end-line="135" />
             </state>
           </provider>
         </entry>
@@ -144,17 +144,20 @@
       <workItem from="1562351358515" duration="795000" />
       <workItem from="1563841345306" duration="240000" />
       <workItem from="1564073753499" duration="409000" />
-      <workItem from="1564160085624" duration="1414000" />
+      <workItem from="1564160085624" duration="1480000" />
+      <workItem from="1565212256242" duration="619000" />
+      <workItem from="1565376639296" duration="635000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10579000" />
+    <option name="totallyTimeSpent" value="11899000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="320" y="190" width="1920" height="1003" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31256655" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31895635" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -179,7 +182,7 @@
     <option name="version" value="1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/pichiapubs@pubmed.rcov" NAME="pubmed Coverage Results" MODIFIED="1565036332899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="pichiapubs" />
+    <SUITE FILE_PATH="coverage/pichiapubs@pubmed.rcov" NAME="pubmed Coverage Results" MODIFIED="1565376645924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="pichiapubs" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.tool-versions">
@@ -194,8 +197,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pubmedtest.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
-          <caret line="24" column="47" selection-end-line="131" />
+        <state relative-caret-position="437">
+          <caret line="31" column="47" selection-end-line="135" />
         </state>
       </provider>
     </entry>
