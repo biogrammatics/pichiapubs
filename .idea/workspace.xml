@@ -27,8 +27,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pubmedtest.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="31" column="47" selection-end-line="135" />
+            <state relative-caret-position="337">
+              <caret line="62" column="47" selection-end-line="146" />
             </state>
           </provider>
         </entry>
@@ -49,7 +49,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -61,11 +60,13 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -146,23 +147,30 @@
       <workItem from="1564073753499" duration="409000" />
       <workItem from="1564160085624" duration="1480000" />
       <workItem from="1565212256242" duration="619000" />
-      <workItem from="1565376639296" duration="635000" />
+      <workItem from="1565376639296" duration="819000" />
+      <workItem from="1565978626870" duration="510000" />
+      <workItem from="1566430713206" duration="283000" />
+      <workItem from="1566501867885" duration="315000" />
+      <workItem from="1566704977083" duration="256000" />
+      <workItem from="1567544264255" duration="162000" />
+      <workItem from="1567574291833" duration="199000" />
+      <workItem from="1568655112574" duration="1241000" />
+      <workItem from="1569448485244" duration="1000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11899000" />
+    <option name="totallyTimeSpent" value="15050000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="320" y="190" width="1920" height="1003" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31895635" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34611288" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32930845" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32930845" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -182,7 +190,7 @@
     <option name="version" value="1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/pichiapubs@pubmed.rcov" NAME="pubmed Coverage Results" MODIFIED="1565376645924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="pichiapubs" />
+    <SUITE FILE_PATH="coverage/pichiapubs@pubmed.rcov" NAME="pubmed Coverage Results" MODIFIED="1568760068715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="pichiapubs" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.tool-versions">
@@ -197,8 +205,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pubmedtest.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="31" column="47" selection-end-line="135" />
+        <state relative-caret-position="337">
+          <caret line="62" column="47" selection-end-line="146" />
         </state>
       </provider>
     </entry>
