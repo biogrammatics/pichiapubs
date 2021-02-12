@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d1a0426-d15e-4c18-84d7-4b04cad91ad3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/email-addresses.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cumulative_ids.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cumulative_ids.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/idnumbers.txt" beforeDir="false" afterPath="$PROJECT_DIR$/idnumbers.txt" afterDir="false" />
@@ -18,17 +19,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pubmed.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+            <state relative-caret-position="15">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pubmedtest.html">
+        <entry file="file://$PROJECT_DIR$/email-addresses.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="337">
-              <caret line="62" column="47" selection-end-line="146" />
+            <state relative-caret-position="75">
+              <caret line="5" column="90" selection-start-line="5" selection-start-column="90" selection-end-line="5" selection-end-column="148" />
             </state>
           </provider>
         </entry>
@@ -38,11 +39,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/email-addresses.rb" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="320" />
-    <option name="y" value="190" />
-    <option name="width" value="1920" />
-    <option name="height" value="1003" />
+    <option name="x" value="109" />
+    <option name="y" value="178" />
+    <option name="width" value="2182" />
+    <option name="height" value="1182" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -87,7 +95,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Ruby.email-addresses">
+    <configuration name="email-addresses" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="pichiapubs" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/email-addresses.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
     <configuration name="pubmed" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="pichiapubs" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
@@ -108,6 +134,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Ruby.email-addresses" />
         <item itemvalue="Ruby.pubmed" />
       </list>
     </recent_temporary>
@@ -156,21 +183,25 @@
       <workItem from="1567574291833" duration="199000" />
       <workItem from="1568655112574" duration="1241000" />
       <workItem from="1569448485244" duration="1000" />
+      <workItem from="1582234910977" duration="1239000" />
+      <workItem from="1582319090874" duration="261000" />
+      <workItem from="1582325541850" duration="1698000" />
+      <workItem from="1582917532041" duration="3000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15050000" />
+    <option name="totallyTimeSpent" value="18251000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="320" y="190" width="1920" height="1003" extended-state="0" />
+    <frame x="109" y="178" width="2182" height="1182" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34611288" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31542057" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32930845" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32844037" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -190,23 +221,36 @@
     <option name="version" value="1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/pichiapubs@pubmed.rcov" NAME="pubmed Coverage Results" MODIFIED="1568760068715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="pichiapubs" />
+    <SUITE FILE_PATH="coverage/pichiapubs@pubmed.rcov" NAME="pubmed Coverage Results" MODIFIED="1582234940806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="pichiapubs" />
+    <SUITE FILE_PATH="coverage/pichiapubs@email_addresses.rcov" NAME="email-addresses Coverage Results" MODIFIED="1582326936851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="pichiapubs" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.tool-versions">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/pubmed.rb">
+    <entry file="file://$PROJECT_DIR$/idnumbers.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
-        </state>
+        <state relative-caret-position="-1771" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pubmedtest.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="62" column="47" selection-end-line="146" />
+        <state relative-caret-position="-1343">
+          <caret line="32" selection-end-line="161" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pubmed.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/email-addresses.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="90" selection-start-line="5" selection-start-column="90" selection-end-line="5" selection-end-column="148" />
         </state>
       </provider>
     </entry>
